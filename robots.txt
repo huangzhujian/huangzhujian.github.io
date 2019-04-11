@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:/favicon.ico
+Allow:/sitemap.xml
